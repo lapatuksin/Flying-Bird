@@ -1,0 +1,22 @@
+F:\проекты C#\stupidbird\stupidbird\bin\Debug\stupidbird.exe.config
+F:\проекты C#\stupidbird\stupidbird\bin\Debug\stupidbird.exe
+F:\проекты C#\stupidbird\stupidbird\bin\Debug\stupidbird.pdb
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.AssemblyReference.cache
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.SuggestedBindingRedirects.cache
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.Form1.resources
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.Properties.Resources.resources
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.GenerateResource.cache
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.CoreCompileInputs.cache
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.exe
+F:\проекты C#\stupidbird\stupidbird\obj\Debug\stupidbird.pdb
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\bin\Debug\stupidbird.exe.config
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\bin\Debug\stupidbird.exe
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\bin\Debug\stupidbird.pdb
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.AssemblyReference.cache
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.SuggestedBindingRedirects.cache
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.Form1.resources
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.Properties.Resources.resources
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.GenerateResource.cache
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.csproj.CoreCompileInputs.cache
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.exe
+F:\rabota\1курс\ТиМП\stupidbird\stupidbird\obj\Debug\stupidbird.pdb
